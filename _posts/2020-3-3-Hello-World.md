@@ -3,4 +3,4 @@ layout: post
 title: mi primer post!
 ---
 
-<h5>hola mundo</h5>
+<h1>hola mundo</h1>
