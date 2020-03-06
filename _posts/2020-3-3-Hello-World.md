@@ -3,4 +3,4 @@ layout: post
 title: mi primer post!
 ---
 
-<h1>hola mundo</h1>
+Header 2 (H1 is reserved for post titles)
