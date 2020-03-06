@@ -6,8 +6,7 @@
 name: Didactica aumentada
 
 # Short bio or description (displayed in the header)
-description: Trabajamos en desarrollos colaborativos y cooperativos, somos un equipo de Entusiastas de la educación, informática y de las innovaciones en Enseñanza-Educación.
-Pertenecemos a Gdor. Virasoro y nos Formamos para ser Docentes de Informática.
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://1.bp.blogspot.com/-527HhFauGZg/XmHp8Uu6XNI/AAAAAAAAfRY/TiXIzqbxQyEm_MDD_B5i_5COIW_nRZxjQCLcBGAsYHQ/s1600/gato_002312x215.png
@@ -21,12 +20,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: 
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
